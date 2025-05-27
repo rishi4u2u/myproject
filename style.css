@@ -1,0 +1,341 @@
+
+* {
+    margin:0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+     border: border-box;
+
+}
+
+.section1{
+    height: 700px;
+    width: 1475px;
+    background-image: url(netflix_\ image.jpg);
+    background-size: cover;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    font-style: arial;
+
+    
+   
+}
+.netfliximage{
+    height:120px;
+    width:200px;
+    background-image:url(th.jfif);
+    background-size: cover;
+    align-self: flex-start;
+  
+}
+
+.div1{
+    height: 129.6px;
+    width: 900.8px;
+    color: white;
+    font-size: 48px;
+    font-weight: bolder;
+
+}
+.div2{
+    height: 32px;
+    width: 900.8px;
+    color: white;
+    font-size:24px ;
+    margin-left: 30%;
+    margin-top: 16px;
+    
+}
+.div3{
+    height: 30px;
+    width: 836.8px;
+    color: white;
+    font-size: 20px;
+    margin-top:16px;
+    margin-left:10% ;
+    
+}
+.searchbar{
+    height: 56px;
+    width: 374.35px;
+    padding-left:16px ;
+    font-size: 1rem;
+    border-radius:7px ;
+    margin-top: 16px;
+   background-color: rgba(0, 0, 0, 0.611);
+
+}
+
+button{
+    height: 56px;
+    width: 203.65px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size:25px ;
+}
+
+
+.section2{
+    height: 481.3px;
+    width: 1475px;
+    padding: 72px 0px;
+    background-color: black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
+
+.combine{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.div5{
+    height:64.8px;
+    width:444.4px; 
+    background-color: black;
+    color: white;
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.div6{
+    height:96px;
+    width: 444.4px;
+    font-size: 24px;
+    margin: 16px 0px 0px;
+    color: white;
+}
+
+.tvimage{
+    height: 333.3px;
+    width: 444.4px;
+    background-image: url(tv.png);
+    background-size: cover;
+}
+
+.section3{
+    height: 481.3px;
+    width: 1475px;
+    padding:72px 0px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+
+.mobileimage{
+    height:333.3px ;
+    width: 444.4px;
+    background-image:url(mobile-0819.jpg) ;
+    background-size: cover;
+
+}
+
+.outer1{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.div7{
+    height:100px;
+    width: 444.4px;
+    color: white;
+    font-weight: bolder;
+    font-size:48px;
+ 
+   
+}
+
+.div8{
+height: 64px;
+width: 444.4px;
+font-size: 24px;
+margin: 16px 0px 0px;
+color: white;
+
+}
+
+.section4{
+    height: 481.3px;
+    width: 1475px;
+    background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+
+}
+
+.outer2{
+     display:flex ;
+     flex-direction: column;
+ 
+}
+.div9{
+    height: 64.8px;
+    width: 444.4px;
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+}
+
+.div10{
+    height: 64px;
+    width:444.4px;
+    margin: 16px 0px 0px;
+    font-size: 16px;
+    color: white;
+}
+
+.image{
+    height: 333.3px;
+    width: 444.4px;
+    background-image:url(device-pile-in.png);
+    background-size: cover;
+
+}
+
+.section5{
+    height: 481.3px;
+    width: 1475px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.kidimage{
+height: 333.3px;
+width: 444.4px;
+background-image:url(image2.png);
+background-size: cover;
+
+}
+.outer3{
+    display: flex;
+    flex-direction: column;
+
+
+}
+.div11{
+    height: 129.6px;
+    width: 444.4px;
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+
+}
+.div12{
+    height: 96px;
+    width: 444.4px;
+    font-size: 24px;
+    color: white;
+    margin: 16px 0px 0px;
+
+}
+.section6{
+    height: 930.4px;
+    width: 1475px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.div13{
+    height: 64.8px;
+    width: 900.8px;
+    font-size: 48px;
+    color: white;
+    font-weight: bolder;
+
+}
+.divb1{
+    height: 84px;
+    width: 900.8px;
+    font-size: 30px;
+    background-color:grey;
+    color:white;
+    border:solid 10px black;
+    background-color: #444444;
+
+}
+.divb2{
+    height: 84px;
+    width: 900.8px;
+    color:white;
+    font-size: 30px;
+    border:solid 10px black;
+    background-color:#444444;
+}
+.divb3{
+    height: 84px;
+    width: 900.8px;
+    color:white;
+    font-size: 30px;
+    border:solid 10px black;
+    background-color: #444444;
+}
+.divb4{
+    height: 84px;
+    width: 900.8px;
+    color:white;
+    font-size: 30px;
+    border:solid 10px black;
+    background-color:#444444;
+}
+.divb5{
+    height: 84px;
+    width: 900.8px;
+    color:white;
+    font-size: 30px;
+    background-color: #444444;
+    border:solid 10px black;
+}
+.divb6{
+    height: 84px;
+    width: 900.8px;
+    color:white;
+    font-size: 30px;
+    border:solid 10px black;
+    background-color: #444444;
+}
+.div14{
+    height: 30px;
+    width: 836.8px;
+    font-size: 20px;
+    color: white; 
+
+}
+.outer4{
+    display: flex;
+}
+
+.searchbar1{
+    height: 56px;
+    width: 374.35px;
+    padding-left:16px ;
+    font-size: 1rem;
+    border-radius:7px ;
+    margin-top: 16px;
+   background-color: rgba(0, 0, 0, 0.611);
+}
+.div16{
+    height: 56px;
+    width: 203.65px;
+    background-color: red;
+    margin-top: 16px;
+    margin-left: 4px;
+    color: white;
+    font-weight: bold;
+    font-size:25px ;
+
+} 
